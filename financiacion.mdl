@@ -1,4 +1,8 @@
 {UTF-8}
+asdf  = A FUNCTION OF( )
+	~	
+	~		|
+
 asdfasdfasdfasdfasfasdf  = A FUNCTION OF( )
 	~	
 	~		|
@@ -249,7 +253,7 @@ $192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,9
 1,7,8,5,4,0,0,22,0,192,0,-1--1--1,,1|(720,39)|
 11,8,48,656,39,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
 10,9,Deuda corriente pagada,656,67,65,20,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
-11,10,992,347,39,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
+11,10,1036,347,39,6,8,34,3,0,0,1,0,0,0,0,0,0,0,0,0
 10,11,Nueva deuda corriente,347,67,54,20,40,3,0,0,-1,0,0,0,0,0,0,0,0,0
 10,12,Tasa de interes Deuda corriente,349,-134,65,20,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
 10,13,Interes deuda corriente,536,-97,56,20,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
@@ -390,12 +394,21 @@ $192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,9
 10,4,asdfsadfdaf,340,264,50,13,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
 10,5,asdfsaf,674,422,40,20,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
 1,6,4,5,0,0,0,0,0,192,0,-1--1--1,,1|(494,337)|
-10,7,asdfasdfasdfasdfasfasdf,185,424,97,20,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,7,asdfasdfasdfasdfasfasdf,185,424,97,13,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 4
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
+10,1,asdf,284,149,40,20,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 5
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
 ///---\\\
 :L<%^E!@
-5:asdfasdfasdfasdfasfasdf
+5:FINAL TIME
 9:current
-19:100,2
+19:100,4
 24:0
 25:0
 26:0
