@@ -1,4 +1,8 @@
 {UTF-8}
+asdfadsfasdf  = A FUNCTION OF( )
+	~	
+	~		|
+
 asdf  = A FUNCTION OF( )
 	~	
 	~		|
@@ -404,9 +408,11 @@ $192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,9
 V300  Do not put anything below this section - it will be ignored
 *View 5
 $192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|255-255-255|96,96,100,0
+10,1,asdfadsfasdf,480,179,54,20,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+10,2,view5lasdjfasdf,863,259,63,20,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
 ///---\\\
 :L<%^E!@
-5:FINAL TIME
+5:view5lasdjfasdf
 9:current
 19:100,4
 24:0
